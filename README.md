@@ -2,6 +2,12 @@
 
 - [AVA (moodle)](https://ava.ifpr.edu.br/course/view.php?id=10150)
 
+## Mongodb e colab
+
+### Obter a url de conexão
+
+![url](/videos/url-conexao-mongodb.gif)
+
 ## Notebooks (colab)
 - [Aula 1 - (python)](/notebooks/Aula1_python.ipynb)
 - [Aula 2 - (mongodb+python)](/notebooks/Aula2_mongodb_cloud.ipynb)
