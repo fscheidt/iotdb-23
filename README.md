@@ -12,11 +12,12 @@ Como encontrar a url de conexão com o mongodb cloud para usar no python.
 ### Importar Notebook
 Como importar notebook do github para o colab
 
+![url](/videos/copiar-notebook-github.gif)
 
 
 ## Notebooks (colab)
-- [Caderno template](/notebooks/Template.ipynb)
+- [Caderno Template](/notebooks/Template.ipynb)
 - [Aula 1 - (python)](/notebooks/Aula1_python.ipynb)
 - [Aula 2 - (mongodb+python)](/notebooks/Aula2_mongodb_cloud.ipynb)
 - [Aula 3 - (upload json + env file)](/notebooks/Aula3_import_json_to_mongodb.ipynb)
-
+- [Aula 4 - (Find, Insert, update e delete)](/notebooks/Template.ipynb)
