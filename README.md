@@ -10,13 +10,23 @@
 
 ## Mongodb e colab
 
-### Obter a url de conexão
+### 🎬 Obter a url de conexão
+
 Como encontrar a url de conexão com o mongodb cloud para usar no python.
 
 ![url](/videos/url-conexao-mongodb.gif)
+
+---
 
 ### Importar Notebook
 Como importar notebook do github para o colab
 
 ![url](/videos/copiar-notebook-github.gif)
 
+---
+
+### Arquivo .env
+
+[.env](/notebooks/env_file)
+
+---
