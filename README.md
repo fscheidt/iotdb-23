@@ -20,4 +20,4 @@ Como importar notebook do github para o colab
 - [Aula 1 - (python)](/notebooks/Aula1_python.ipynb)
 - [Aula 2 - (mongodb+python)](/notebooks/Aula2_mongodb_cloud.ipynb)
 - [Aula 3 - (upload json + env file)](/notebooks/Aula3_import_json_to_mongodb.ipynb)
-- [Aula 4 - (Find, Insert, update e delete)](/notebooks/Template.ipynb)
+- [Aula 4 - (Find, Insert, update e delete)](/notebooks/Aula4_CRUD.ipynb)
