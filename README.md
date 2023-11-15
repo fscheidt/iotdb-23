@@ -1,5 +1,7 @@
 # Banco de dados das coisas
 
+[Projeto vscode](https://github.com/fscheidt/banco)
+
 - [AVA (moodle)](https://ava.ifpr.edu.br/course/view.php?id=10150)
 - [Caderno Template](/notebooks/Template.ipynb)
 - [Aula 1 - (python)](/notebooks/Aula1_python.ipynb)
